@@ -30,7 +30,9 @@ Furthermore, they provide also a file containing what activity corresponds to ea
 
 It has to be said that this data consists on two different data sets that need to be merged (the test data set and the train data set).
 
-For this project we only used the variables that calculated the mean (mean()) and standard deviation() for each of the signals once the two data sets are merged.
+## About the tidy data set
+
+For this project we used the variables that calculated the mean (mean()) and standard deviation() only, for each of the signals once the two data sets are merged.
 
 In the final data set the variables are the average of each of the variables especified above grouped by each subject and each activity (for example, for every particular signal, the average of all the the means for "walking" activity and subject number 1, and so forth).
 
